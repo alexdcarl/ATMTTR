@@ -35,17 +35,18 @@ This file is a VERY simple javascript prompt that operates as the GUI and resmeb
 
  ###Inside Shell program
 
- # ```bash|| xterm || ``` 
- # `````after successful load you should see````
- # ;  Welcome to the ATM for the Bank of Alex!
- # ;  We use pseudo-money here, but welcome your patronage!
- # ;  choose 1 for transaction or 2 to open a new account..  
-#========================================
-#This screen allows for a user to relogin with previously made credentials 
-#or create a new account and create their own account :
-#  this process autogenerates a new, unused account number
-#  and allows the user to choose their own pin number .
-#=========================================#
+ ### ```bash|| xterm || ``` 
+ ### `````after successful load you should see````
+ #### ;  Welcome to the ATM for the Bank of Alex!
+ #### ;  We use pseudo-money here, but welcome your patronage!
+ #### ;  choose 1 for transaction or 2 to open a new account..  
+
+#####========================================
+#####This screen allows for a user to relogin with previously made credentials 
+#####or create a new account and create their own account :
+#####  this process autogenerates a new, unused account number
+#####  and allows the user to choose their own pin number .
+#####=========================================#
 
 
 
