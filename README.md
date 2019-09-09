@@ -1,8 +1,8 @@
 # ATM-TTR
 This file is a VERY simple javascript prompt that operates as the GUI and resmebles an actual ATM terminal.
-#ATM
+# ATM
  Written as a Node.js script with a simple command line user interface.
-##Description
+## Description
   - Autonomic Bank User Interface through local terminal
   - Bank/ATM can create new accounts
   - Account are verified by Pin and secret Bank ID
@@ -15,25 +15,25 @@ This file is a VERY simple javascript prompt that operates as the GUI and resmeb
     4. Make Withdrawl
     5. Print Account Ledger
 
-##Setup
+## Setup
 
-##Install Node.js
+## Install Node.js
   First you must have Node.js installed globally on your machine.
   You can easily do this from the main website [Node.js](http://nodejs.org)
 
-##Install Dependencies
+## Install Dependencies
   After clone and CD into directory..
 
   ```bash
   $ npm install
   ```
-##Launch Program
+## Launch Program
   ```bash
   $ node app.js
   ```
   If all goes as planned ATM should run continually in the terminal window until interruped(CTRL-C) or closed.
 
- ##Inside Shell program
+  Inside Shell program
 
  ##  inbash|| xterm || cmd  
  ##  after successful load you should see
