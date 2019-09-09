@@ -17,11 +17,11 @@ This file is a VERY simple javascript prompt that operates as the GUI and resmeb
 
 ##Setup
 
-###Install Node.js
+##Install Node.js
   First you must have Node.js installed globally on your machine.
   You can easily do this from the main website [Node.js](http://nodejs.org)
 
-###Install Dependencies
+##Install Dependencies
   After clone and CD into directory..
 
   ```bash
@@ -33,21 +33,21 @@ This file is a VERY simple javascript prompt that operates as the GUI and resmeb
   ```
   If all goes as planned ATM should run continually in the terminal window until interruped(CTRL-C) or closed.
 
- ###Inside Shell program
+ ##Inside Shell program
 
- ###  inbash|| xterm || cmd  
- ###  after successful load you should see
- ###  Welcome to the ATM for the Bank of Alex!
- ###  We use pseudo-money here, but welcome your patronage!
- ### 
- ###  choose 1 for transaction or 2 to open a new account..  
+ ##  inbash|| xterm || cmd  
+ ##  after successful load you should see
+ ##  Welcome to the ATM for the Bank of Alex!
+ ##  We use pseudo-money here, but welcome your patronage!
+ ## 
+ ##  choose 1 for transaction or 2 to open a new account..  
 
-###   ========================================
-###  This screen allows for a user to relogin with previously made credentials 
-###  or create a new account and create their own account :
-###  this process autogenerates a new, unused account number
-###  and allows the user to choose their own pin number .
-###  =========================================
+##   ========================================
+##  This screen allows for a user to relogin with previously made credentials 
+##  or create a new account and create their own account :
+##  this process autogenerates a new, unused account number
+##  and allows the user to choose their own pin number .
+##  =========================================
 
 
 
